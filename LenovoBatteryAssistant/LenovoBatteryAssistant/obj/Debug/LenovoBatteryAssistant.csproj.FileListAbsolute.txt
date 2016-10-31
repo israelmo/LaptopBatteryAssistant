@@ -1,0 +1,10 @@
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\bin\Debug\LenovoBatteryAssistant.exe.config
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\bin\Debug\LenovoBatteryAssistant.exe
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\bin\Debug\LenovoBatteryAssistant.pdb
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\obj\Debug\LenovoBatteryAssistant.csprojResolveAssemblyReference.cache
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\obj\Debug\LenovoBatteryAssistant.Form1.resources
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\obj\Debug\LenovoBatteryAssistant.Properties.Resources.resources
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\obj\Debug\LenovoBatteryAssistant.csproj.GenerateResource.Cache
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\obj\Debug\LenovoBatteryAssistant.exe
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\obj\Debug\LenovoBatteryAssistant.pdb
+C:\Users\Israel\Documents\LINQ\LenovoBatteryAssistant\LenovoBatteryAssistant\bin\Debug\MetroFramework.dll
